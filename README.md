@@ -1,5 +1,7 @@
 # WiFi-Deauther-and-WiFi-Duck-Making-Testing-and-Understanding-the-Technology
 
+https://aman5z.blogspot.com/2024/09/projects.html
+
 In this project, I combined several components to build a WiFi Deauther and WiFi Duck, two tools that demonstrate the power of hacking and how WiFi networks can be vulnerable to attacks. Below, I'll walk you through the parts I used, the connections I made, and the functionality of the final device.
 
  
