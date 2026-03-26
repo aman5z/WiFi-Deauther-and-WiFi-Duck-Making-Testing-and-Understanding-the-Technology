@@ -1,8 +1,4 @@
 # WiFi-Deauther-and-WiFi-Duck-Making-Testing-and-Understanding-the-Technology
-<img width="671" height="892" alt="Screenshot 2026-03-22 224536" src="https://github.com/user-attachments/assets/cc51b557-b907-49b6-9c01-69749c84ba00" />
-<img width="676" height="902" alt="Screenshot 2026-03-22 224546" src="https://github.com/user-attachments/assets/bfc04504-889c-408a-a3ef-c78ebe3c1c60" />
-
-
 
 In this project, I combined several components to build a WiFi Deauther and WiFi Duck, two tools that demonstrate the power of hacking and how WiFi networks can be vulnerable to attacks. Below, I'll walk you through the parts I used, the connections I made, and the functionality of the final device.
 
@@ -93,9 +89,15 @@ While testing the WiFi Deauther and WiFi Duck, I was able to:
 
 Deauthenticate multiple devices from a WiFi network, showing how easy it is to disrupt network services.
 
+
 Control a connected laptop using custom scripts, demonstrating how security flaws can be exploited in seemingly harmless hardware.
 
 Final Thoughts:
 The combination of a WiFi Deauther and WiFi Duck presents a powerful toolkit for penetration testers and security enthusiasts. However, it’s crucial to emphasize that these tools should only be used for ethical hacking purposes. If used improperly, they can cause significant disruption and legal issues.
 
 In the end, this project demonstrates how vulnerabilities in common technologies can be exploited and highlights the importance of strengthening WiFi network security through encryption, strong passwords, and regular monitoring for unauthorized access.
+
+
+<img width="676" height="782" alt="Screenshot 2026-03-26 213108" src="https://github.com/user-attachments/assets/61e83650-d1a9-4f64-956a-73821e8ab92c" />
+<img width="675" height="720" alt="Screenshot 2026-03-26 213120" src="https://github.com/user-attachments/assets/66674368-3ac9-480b-a75d-7cb0ebcace9e" />
+
